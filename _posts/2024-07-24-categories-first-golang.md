@@ -22,6 +22,7 @@ last_modified_at: 2021-10-09
 <script src="https://utteranc.es/client.js"
         repo="simuiji/comment"
         issue-term="pathname"
+        label="comments"
         theme="github-light"
         crossorigin="anonymous"
         async>
