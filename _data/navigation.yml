@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://simuiji.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/simuiji
 
   # - title: "Projects"
   #   url: /projects/
@@ -22,9 +22,9 @@ categories:
     children:
       - title: "Golang"
         url: /categories/golang/
-      - title: "Categories2"
+      - title: "Cloud"
         url: /categories/categories2/
-      - title: "Categories3"
+      - title: "Python"
         url: /categories/categories3/
       - title: "Categories4"
         url: /categories/categories4/
@@ -35,8 +35,3 @@ categories:
         url: /categories/categories5/
       - title: "Categories6"
         url: /categories/categories6/
-
-  - title: "Title3"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
